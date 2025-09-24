@@ -16,6 +16,7 @@ function StartScreen() {
     <div className="start-screen">
       <h1>Aswang Hunter</h1>
       <p>The Midnight Chronicles</p>
+      <p>by Sir Franco</p>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
