@@ -14,7 +14,7 @@ function StartScreen() {
 
   return (
     <div className="start-screen">
-      <h1>Aswang Hunter V2</h1>
+      <h1>Aswang Hunter V3</h1>
       <p>The Midnight Chronicles</p>
       <p>by Sir Franco</p>
       <form onSubmit={handleSubmit}>
